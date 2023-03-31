@@ -1,5 +1,5 @@
 # Kafka
-
+<img> </img>
 Running Spark and Kafka Clusters on Docker
 
 # Build Spark Images
