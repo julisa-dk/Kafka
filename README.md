@@ -2,7 +2,7 @@
 
 Running Spark and Kafka Clusters on Docker
 
-# Build Spark Images
+1. Build Spark Images
 ./build.sh 
 
 # Create Network
